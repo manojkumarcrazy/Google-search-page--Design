@@ -1,0 +1,93 @@
+a:visited {
+    color: #e5e906 !important ;
+    
+}.MBeuO {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic !important;
+    font-weight: bold !important;
+}.VuuXrf {
+    color: #ff1212 !important;
+    font-size: 19px !important;
+    display: block;
+    line-height: 20px;
+    white-space: nowrap;
+    font-style: italic !important;
+    /* font-weight: bold !important; */
+} .p4wth {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px !important;
+    /* font-style: italic !important; */
+    color: #ff0bc6 !important;
+    font-style: normal !important;
+
+}a {
+    color: #2dff09 !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(255,255,255,.1);
+}.z1asCe {
+    display: inline-block;
+    fill: rgb(182 255 6) !important;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}.gLFyf {
+    resize: none;
+    background-color: #57121200;
+    border: none;
+    margin: 0;
+    padding: 0 0 3px;
+    color: #f6e809 !important;
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    -webkit-tap-highlight-color: transparent;
+    font-style: italic !important;
+}.WggQGd {
+    color: #f4cd09 !important;
+    font-style: italic !important;
+}
+.aajZCb {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #2a1111 !important;
+    border-radius: 0 0 24px 24px;
+    box-shadow: 0 4px 6px 0 #171717;
+    border: 0;
+    padding-bottom: 4px;
+    border: 3px , solid #0afa0a !important;
+    border-radius: 20px !important;
+}
+
+.YmvwI {
+    display: flex;
+    height: 20px;
+    color: #29c6b2 !important; 
+    font-family: Google Sans,Arial,sans-serif-medium,sans-serif;
+    width: fit-content;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    border-radius: 2px !important;
+}.emcav .RNNXgb, .BgPPrc .RNNXgb {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: 0 4px 12px rgba(23,23,23,0.9);
+    border-color: #780d0de8;
+    background: #303134;
+    background: #0c264b !important;
+    border-radius: 10px !important;
+    box-shadow: 0 4px 12px rgb(253 246 10) !important;
+}
