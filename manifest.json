@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+   
+    "name": "Color Theme For Google",
+    "version": "2.0.0",
+    "description": "color theme for Google",
+  
+   
+    "content_scripts": [{
+      "css": ["styles.css"],
+      "matches": ["https://www.google.com/*"]
+      // "matches": ["https://www.google.co.in/*"]
+   
+  }]
+    }
