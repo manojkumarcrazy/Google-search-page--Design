@@ -8,8 +8,8 @@
    
     "content_scripts": [{
       "css": ["styles.css"],
-      "matches": ["https://www.google.com/*"]
-      // "matches": ["https://www.google.co.in/*"]
+      "matches": ["https://www.google.com/*"],
+       "matches": ["https://www.google.co.in/*"]
    
   }]
     }

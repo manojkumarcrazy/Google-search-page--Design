@@ -1,3 +1,121 @@
+
+/* *{
+
+    /* background-image: url("./image/cyberpunk-2077-g.jpg") !important; */
+    /* margin: 0 !important;  */
+    /* padding: 0 !important;  */
+    /* background-image: url('./image/cyberpunk-2077-g.jpg') !important; Replace with your image path */
+    /* background-repeat: no-repeat !important;  */
+    /* background-size: cover !important;  Cover the entire viewport */
+    /* background-position: center !important; Center the image */
+    /* font-family: Arial, sans-serif !important; */
+/* } */
+body.srp, body {
+    background: #7b681e2e !important;
+    border-radius: 10px !important;
+}
+.IiOSLb .rsGxI.Ww4FFb, .Ww4FFb {
+    background-color: #471c1c75  !important;
+    border-radius: 10px !important;
+    border: 2px solid yellow !important;
+    /* width: 95% !important; */
+    /* height: 50% !important; */
+}
+.LC20lb {
+    display: flex !important;
+    justify-content:center !important ;
+    line-height: 1.3;
+    margin-bottom: 3px;
+}
+.VuuXrf {
+    color: #dadce0;
+    font-size: 14px;
+    display: flex !important;
+    justify-content: center !important;
+    line-height: 20px;
+    white-space: nowrap;
+}
+.SsM98d.RmEs5b {
+    color: #0ec1f5 !important;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 4px 4px 0 0;
+    line-height: 24px;
+}
+.qd9Mkf {
+    color: #fa0000 !important;
+    font-size: 14px;
+    margin: 12px 0 12px 0;
+    max-width: 60%;
+    min-height: 42px;
+    padding-right: 16px;
+}
+.LGwnxb {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: auto;
+    padding-left: 0;
+    padding-right: 8px;
+    color: #ff0000 !important;
+    font-style: italic !important;
+    /* border: 2px dotted !important; */
+    /* border-radius: 50px !important ; */
+
+    max-width: calc(100% - 64px);
+}
+.S8ee5 {
+    box-sizing: border-box;
+    cursor: pointer;
+    background: #28292a;
+    border: 5px dotted green !important;
+    pointer-events: auto;
+    position: relative;
+    width: 300px;
+}
+.S8ee5.CwbYXd {
+    color: #d4ef02 !important;
+}
+.xt8Uw {
+    color: #bdb605 !important;
+    font-family: Arial,sans-serif;
+    font-size: 55px;
+    line-height: 0.9;
+}
+.ZFiwCf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    border: 5px dotted yellow !important;
+    border-radius: 100px !important;
+    outline: 1px solid transparent;
+    background-color: var(--XKMDxc);
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+    font-weight: 400;
+    max-width: 300px;
+    height: 36px;
+}
+.srKDX {
+    display: grid;
+    justify-content: space-between;
+    align-items: start;
+    position: relative;
+    height: 100% !important;
+    width: 100% !important;
+
+}
+.ojE3Fb .q0vns {
+    display: flex;
+    align-items:center ! important;
+    padding: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+    align-items: center;
+}
 a:visited {
     color: #e5e906 !important ;
     
@@ -90,4 +208,116 @@ a:visited {
     background: #0c264b !important;
     border-radius: 10px !important;
     box-shadow: 0 4px 12px rgb(253 246 10) !important;
+}
+/* body.srp, body {
+    background-image:url('https://www.google.com/search?newwindow=1&sca_esv=a5203e152adc2835&sxsrf=ADLYWIK9ne5da6JNQo0FJTaHNLpbSK5gfg:1732971254058&q=cyberpunk+2077&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWde_MVagR57NIrd96T8bhwqEHeQ8jxei7F1s0aV23iWeaizPdCe-Ya46U69_ZY4v7EsvmwmUdq6aCUfz5_jSfLrxklrTE27Zes-FLqKei29tXu1aL87FTbwJmDlE7cT5FnH2g7L75RNIPCyUpK-LXr-T8SRAsB5x6r8YCuF4PVSTsbl-JzcIKewBXxEPbjCodVDz0Sg&sa=X&ved=2ahUKEwiH8oOAjYSKAxVLxTgGHRvNELwQtKgLegQIFxAB&biw=1514&bih=728&dpr=1.27#vhid=OW_-l-X0KS8KIM&vssid=mosaic') !important;
+
+    background-repeat: no-repeat !important; Prevent repeating */
+    background-size: cover !important;  /* Scale image to cover entire background */
+    background-position: center !important; /* Center the image
+} */
+cite, cite a:link, cite a:visited {
+    color: #00f4a8 !important;
+    font-style: normal !important;
+}
+.CYJS5e {
+    color: #6efa00 !important;
+}
+.FoJoyf.w8qArf {
+    color: #ff0000 !important;
+    font-weight: 600 !important;
+     font-style: italic !important; 
+}
+.zqrO0 {
+    color: #04dba1 !important;
+    font-style: italic !important;
+}
+.RES9jf {
+    color: #a4d800 !important;
+    font-style: italic !important;
+}
+.B2VR9 {
+    display: flex;
+    align-items: center;
+    border-radius: 100px !important;
+}
+.vIifob {
+    align-items: center;
+    background: #da0000 !important;
+    border-radius: 30px !important;
+    justify-content: center;
+    padding: 0 8px 0 16px;
+}
+.dg6jd {
+    color: #0cfadd !important;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    overflow: hidden;
+    overflow-wrap: break-word;
+    font-size: 16px;
+    font-style: italic !important;
+}
+.wdQNof {
+    border: 4px solid #05fb17 !important;
+    border-radius: 20px !important;
+    box-shadow: none;
+}
+.FR7ZSc {
+    color: #eec108 !important;
+}
+.fCrZyc .niO4u, .fCrZyc .kHtcsd {
+    border-radius: 999px !important;
+}
+.sfbg {
+    background: #0b9818 !important;
+    height: 69px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    border-radius: 50px !important;
+    margin-top: -13px !important;
+}
+body {
+    margin: 0;
+    background: #1f1f1f;
+    color: #00f0dc !important;
+}
+.RNNXgb {
+    display: flex;
+    z-index: 3;
+    position: relative;
+    min-height: 44px;
+    border: 5px solid yellow !important; 
+    background: #c307078f !important;
+    box-shadow: none;
+    border-radius: 30px !important;
+    margin: 0 auto;
+    width: 690px;
+}
+.ssJ7i {
+    color: #e3a012 !important;
+    font-family: Google Sans,Arial,sans-serif-medium,sans-serif;
+    font-weight: 500;
+    word-break: break-word;
+    font-style: italic !important;
+}
+.iAIpCb {
+    color: #f010ce !important;
+    font-family: Arial,sans-serif;
+    font-size: 19px;
+    line-height: 20px;
+    margin-top: 4px;
+    font-family: Arial,sans-serif;
+    font-weight: 400;
+    line-height: 18px;
+    font-style: italic !important;
+}
+.CSkcDe, .related-question-pair div.iDjcJe {
+    color: #f805dd !important;
+    font-family: Google Sans,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-style: italic !important;
 }
